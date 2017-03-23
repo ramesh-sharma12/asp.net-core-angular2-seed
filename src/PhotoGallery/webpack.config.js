@@ -12,7 +12,7 @@ var webpackConfig = {
 
     output: {
         publicPath: '',
-        path: path.resolve(__dirname, './dist')
+        path: path.resolve(__dirname, './wwwroot/dist')
     },
 
     plugins: [
